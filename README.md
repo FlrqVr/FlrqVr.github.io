@@ -36,3 +36,35 @@ GMT+8 2022年5月8日，服主误将暮色森林mod装载至服务器上，由�
 服主无法使用正常途径（直接删除mod文件）
 进行删除，于是只好保留了下来，但由于服内玩家电脑配置不高，（几乎）无法带暮色森林mod启动服务器，这导致服务器数天无玩家上线，服务器异常冷清，为了拯救低配玩家，服主经过1145141919810微秒（约13.25天）的思考，于GMT+8 2022年5月21日21点30分左右成功去除暮色森林mod并成功启动服务器，低配玩家终于得到了救赎
 嗨害嗨 没啦
+
+(English is machine translation, and some parts may be inaccurate)
+Notice:
+Server address: p1.simpfun.cn:8686
+Version: Java 1.12.2
+Server location: Guangzhou, Guangdong Province
+Server room location: Suqian City, Jiangsu Province
+Basic functions:
+Press the tab key to view the HP of all players
+On the right is the death list titled "number of meals"
+(the number of deaths of some players is set by the master for art)
+When other players approach, the experience level of the corresponding player will be displayed
+Special note: (novice must see!)
+1. To access the server, you need to have a trident mod (this mod can enable MC version 1.12.2 to have the Trident that MC version 1.13 only has). Otherwise, you cannot access the server. If you need a mod, please send a private message to Yuzhu or visit the website https://www.curseforge.com/minecraft/mc-mods/trident-mod Download
+2. In order to take care of the white whoring party, this server allows offline account login. For offline mode, players only need to know the account and can log in without a password. This is extremely unsafe. For this reason, the server uses a white list and password plug-in
+White list:
+When an account attempts to log in to the game, the system will automatically detect whether the account is in the white list. If it is not in the list, it will be blocked from logging in. At present, there are only a few accounts in the list. If you want to pull people, please talk to the server owner privately
+Password plug-in:
+(the original version does not have a password system, so the server enters the plug-in. Unlike mod, the plug-in (most) only needs to be owned by the server and can be used by the client without installation.)
+Registration: when a player logs in for the first time, he / she needs to set his / her own password. The plug-in will prompt the player to enter a command to set the password. The registration format is:
+/Register < password > < confirm password >
+The password length is not less than 4 and not more than 16, and pure numbers / pure letters / alphanumeric mixing is allowed
+After inputting in the correct format, the player will generate a map with 5 characters on it. This is the built-in registration verification function of the plug-in. The player needs to correctly input the verification code displayed on the map. After inputting the correct code, the plug-in will prompt "registration is successful, you have successfully logged in". At this time, the registration is successful
+Login: after successful registration, every time a player enters the server, the plug-in will prompt him to enter the password to log in. Before login, the player cannot move, check the backpack, and get the blind effect. At this time, the player needs to log in first. The login format is:
+/Login < password > < confirm password >
+The password is the password filled in during registration. If you forget the password, please contact the server owner to retrieve it
+Enter the correct password. After successful login, the player will remove the blindness effect and can freely play the server
+4. About Twilight forest
+GMT + 8 on May 8, 2022, the server mistakenly loaded the twilight forest mod to the server. Due to the characteristics of the twilight forest,
+The server owner cannot use the normal path (directly delete the mod file)
+The server was deleted, so it had to be kept. However, due to the low configuration of the player's computer in the server, it was almost impossible to start the server with the twilight forest mod. As a result, no player was online for several days, and the server was extremely cold. In order to save the low configuration players, the server owner successfully removed the twilight forest mod and successfully started the server at about 21:30 on May 21, GMT + 8, 2022 after thinking about 1145141919810 microseconds (about 13.25 days), Low profile players have finally been redeemed
+Hey, it's done
