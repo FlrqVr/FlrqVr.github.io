@@ -14,7 +14,7 @@
 在其他玩家靠近时，会显示对应玩家的经验等级
 
 特别说明:（新手必看！）
-1.进入服务器需要拥有一个三叉戟mod（该mod可让1.12.2版本mc拥有1.13版本mc才拥有的三叉戟），否则无法进入，需要mod请私信腐竹或访问网站https://www.curseforge.com/minecraft/mc-mods/trident-mod下载
+1.进入服务器需要拥有一个三叉戟mod（该mod可让1.12.2版本mc拥有1.13版本mc才拥有的三叉戟），否则无法进入，需要mod请私信腐竹或访问网站https://www.curseforge.com/minecraft/mc-mods/trident-mod 下载
 
 2.为了关照白嫖党，本服务器允许离线账号登录，对于离线模式，玩家仅需知道账号，无需密码即可登录，这是极其不安全的，为此服务器使用了白名单和密码插件
 
