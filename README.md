@@ -1,1 +1,13 @@
 # FlrqVr.github.io
+# git 命令行，克隆到本地，注意使用你自己的地址哦!!!
+git clone https://github.com/username/FlrqVr.github.io.git
+# 进入文件夹
+cd username.github.io
+# 制作页面，注意名称要是索引.html
+echo“Hello World”>索引.html
+# 添加到暂存区
+git add --all
+# 提交
+git commit -m “Initial commit”
+# push 到远程
+git push -u origin master
